@@ -1,13 +1,13 @@
 # 安装
 ## 跳过git的安装步骤，进入设置步骤
 ### 1.在安装完后设置用户名和用户邮箱
-![image](https://github.com/TKiteRunner/dataMining2/tree/master/images/day01/setUserAemail.png)
+![Image text](https://github.com/TKiteRunner/dataMining2/tree/master/images/day01/setUserAemail.png)
 ### 2.本地化仓库
-![image](https://github.com/TKiteRunner/dataMining2/tree/master/images/day01/init.png)
+![Image text](https://github.com/TKiteRunner/dataMining2/tree/master/images/day01/init.png)
 ### 3.添加ssh
 #### 3.1生成SSH
     $ ssh-keygen -t rsa -C "XXXX@XXX.com" 
-![image](https://github.com/TKiteRunner/dataMining2/tree/master/images/day01/createssh.png)
+![Image text](https://github.com/TKiteRunner/dataMining2/tree/master/images/day01/createssh.png)
 #### 3.2 验证是否生成成功
     $ ls  
 #### 3.3 粘贴SSH秘钥
